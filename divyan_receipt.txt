@@ -1,0 +1,8 @@
+
+                Receipt for User: divyan
+                Account Number: 1
+                Initial Balance: 3000
+                Rate of Interest: 5%
+                Contact Number: 99999945
+                Address: abcd
+            
